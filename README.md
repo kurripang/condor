@@ -1,2 +1,2 @@
 # condor
-Formato de sesión de audio abierto y universal. Como el cóndor, vuela entre DAWs sin límites
+Formato de sesión de audio abierto y universal: el cóndor vuela entre las DAWs sin límites.
