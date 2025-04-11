@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "bpm": 120,
+  "author": "TuNombre",
+  "tracks": [
+    {
+      "id": 1,
+      "type": "audio",
+      "path": "tracks/audio/snare.wav",
+      "hash": "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    },
+    {
+      "id": 2,
+      "type": "midi",
+      "path": "tracks/midi/bassline.mid",
+      "hash": "sha256:2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+    }
+  ]
+}
